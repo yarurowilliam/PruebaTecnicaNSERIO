@@ -1,0 +1,7 @@
+G:\Descargas\Test\DevTest\DevTest\obj\Debug\DevTest.csprojAssemblyReference.cache
+G:\Descargas\Test\DevTest\DevTest\obj\Debug\DevTest.csproj.CoreCompileInputs.cache
+G:\Descargas\Test\DevTest\DevTest\bin\Debug\DevTest.exe.config
+G:\Descargas\Test\DevTest\DevTest\bin\Debug\DevTest.exe
+G:\Descargas\Test\DevTest\DevTest\bin\Debug\DevTest.pdb
+G:\Descargas\Test\DevTest\DevTest\obj\Debug\DevTest.exe
+G:\Descargas\Test\DevTest\DevTest\obj\Debug\DevTest.pdb
